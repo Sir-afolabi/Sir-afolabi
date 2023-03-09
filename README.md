@@ -2,6 +2,7 @@
  👩‍💻 I'm currently learning ethical hacking, pen testing and software engineering<br>😀 I like playing video games 🎮, poker 🎭, reading 📚, programming 💻, chess ♟️ .<br>💬 Ask me about anything .<br>⚡ Fun fact: while (alive);<br>           { <br>                           eat();<br>                           wake();<br>                            code();<br>                            repeat();<br>            }<br>                           <br>                            <br>
 <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+
 ## 🌐 Socials:
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Acekicker277) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Acekicker277) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@HaymoreAy ) 
 
