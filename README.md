@@ -24,11 +24,13 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
+### Memes
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Acekicker277&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/oyetolaayo@gmail.com )
-<img src='https://random-memer-production-b66b.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
 
  
