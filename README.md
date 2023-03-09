@@ -15,7 +15,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Acekicker277&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-<img src="https://raw.githubusercontent.com/gifs/coder.gif"/>
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif"/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
