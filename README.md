@@ -24,7 +24,7 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-### Memes
+### 😎 Memes
 <img src='https://random-memer-production-b66b.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 ---
