@@ -1,10 +1,10 @@
 ### Hi there 👋
- 👩‍💻 I'm currently learning ethical hacking, pen testing and software engineering<br>😀 I like playing video games 🎮, poker 🎭, reading 📚, programming 💻, chess ♟️ .<br>💬 Ask me about anything .<br>⚡ Fun fact: while (alive);<br>           { <br>                           eat();<br>                           wake();<br>                            code();<br>                            repeat();<br>            }<br>                           <br>                            <br>
+ 👩‍💻 I'm currently learning ethical hacking, pen testing and software engineering<br>😀 I like playing video games 🎮, poker 🎭, reading 📚, programming 💻, chess ♟️ .<br>💬 Ask me about cybersecurity & programming.<br>⚡ Fun fact: while (alive);<br>           { <br>                           eat();<br>                           wake();<br>                            code();<br>                            repeat();<br>            }<br>                           <br>                            <br>
 <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 ## 🌐 Socials:
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Acekicker277) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Acekicker277) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@HaymoreAy ) 
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Ayo Oyetola) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Acekicker277) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@HaymoreAy ) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -30,5 +30,4 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/oyetolaayo@gmail.com ) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
