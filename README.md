@@ -12,7 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Acekicker277&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Acekicker277&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Acekicker277&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif"
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif"/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Acekicker277&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ## 🐦 Latest Tweet
