@@ -1,4 +1,3 @@
-### Hi there 👋
 <img src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif"/>
  👩‍💻 I'm currently learning ethical hacking, pen testing and software engineering<br>😀 I like playing video games 🎮, poker 🎭, reading 📚, programming 💻, chess ♟️ .<br>💬 Let's talk about cybersecurity & programming.<br>⚡ Fun fact: while (alive);<br>           { <br>                           eat();<br>                           wake();<br>                            code();<br>                            repeat();<br>            }<br>                           <br>                            <br>
 <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
