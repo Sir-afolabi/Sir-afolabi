@@ -27,7 +27,7 @@
 [![](https://visitcount.itsvg.in/api?id=Sir-afolabi&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![Gmail](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.me/emmanuelafolabi456@gmail.com )
+  [![Gmail](https://img.shields.io/badge/Gmail-00457C?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.me/emmanuelafolabi456@gmail.com )
 
 
  
