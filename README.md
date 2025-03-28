@@ -1,5 +1,5 @@
 <img src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif"/>
- Hey there! I'm a passionate JavaScript developer with an insatiable appetite for solving real-world challenges through code. My world revolves around transforming complex problems into elegant, efficient solutions—one line of code at a time. I like reading 📚, programming 💻, chess ♟️ .<br>💬 Let's talk about programming.<br> 📫 <br> ⚡ Fun fact: while (alive);<br>           { <br>                           eat();<br>                           wake();<br>                            code();<br>                            repeat();<br>            }<br>                           <br>                            <br>
+ Hey there! I'm a passionate JavaScript developer with an insatiable appetite for solving real-world challenges through code. My world revolves around transforming complex problems into elegant, efficient solutions—one line of code at a time.<br> <br>As a tenacious tech enthusiast, I thrive on pushing the boundaries of what's possible with JavaScript. Whether it's building scalable web applications, optimizing performance, or diving into innovative tech solutions, I'm always ready to embrace the next coding challenge. I like reading 📚, programming 💻, chess ♟️ .<br> <br>💬 Let's talk about programming.<br> 📫 <br> ⚡ Fun fact: while (alive);<br>           { <br>                           eat();<br>                           wake();<br>                            code();<br>                            repeat();<br>            }<br>                           <br>                            <br>
 <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
@@ -24,10 +24,10 @@
 <img src='https://random-memer-production-b66b.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Acekicker277&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Sir-afolabi&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/oyetolaayo@gmail.com )
+  [![Gmail](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.me/emmanuelafolabi456@gmail.com )
 
 
  
